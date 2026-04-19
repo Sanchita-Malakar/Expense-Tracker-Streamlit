@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Database files (optional – keep if you want to share schema but not data)
+*.db
+*.sqlite
+
+# Streamlit secrets (if any)
+.streamlit/secrets.toml
+
+# IDE folders
+.vscode/
+.idea/
